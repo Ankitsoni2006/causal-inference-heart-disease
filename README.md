@@ -1,3 +1,5 @@
+⭐ If you find this project useful, consider giving it a star!
+
 # 🧠 From Correlation to Causation: Heart Disease Risk Analysis
 
 ## 🚀 Overview
@@ -65,12 +67,18 @@ This project applies **causal inference techniques** to uncover how clinical var
 > Causal thinking transforms data analysis from prediction to decision-making.
 
 
-
 ## 🛠️ Tech Stack
 - Python  
 - Pandas, NumPy  
 - Scikit-learn  
-- Matplotlib, Seaborn  
+- Matplotlib, Seaborn
+
+
+## 📌 Project Highlights
+- Built using causal inference (not just ML)
+- Includes counterfactual reasoning
+- Real-world healthcare application
+- Research-style analysis and interpretation
 
 
 ## 👤 Author
